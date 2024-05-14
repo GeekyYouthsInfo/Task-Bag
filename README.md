@@ -18,7 +18,7 @@ The features of TaskHub have been grouped into bronze, silver, and gold categori
 2. **Progress Tracking:** Monitor task progress and completion status to stay informed and on track.
 3. **Timelines with Start and End Dates:** Set timelines with start and end dates to establish clear deadlines and milestones.
 
-### Member Divide
+### Member Three
 
 1. **Ability to Attach Resources:** Attach relevant documents, files, or notes directly to tasks for easy access and reference, streamlining organization and collaboration.
 
